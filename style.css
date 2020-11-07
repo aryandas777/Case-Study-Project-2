@@ -1,0 +1,36 @@
+.header_div img {
+    width: 150px
+}
+
+h2 {
+    font-size: 20px;
+}
+
+body {
+    font-family: 'Special Elite', cursive;
+    background: #3be0d3;
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color: #66a3cc;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+ }
+
+ .footer_div
+ {
+   margin-bottom: 50px;
+ }
+
+ .footer_div h4
+ {
+   background: white;
+   border-radius: 10px;
+   padding: 5px;
+   box-shadow: 5px 5px 18px white; 
+ }
